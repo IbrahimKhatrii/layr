@@ -26,4 +26,4 @@ class LayrColumn extends HTMLElement {
         }
     }
 
-    customElements.define('layr-column', LayrColumn);
+    customElements.define('Column', LayrColumn);
