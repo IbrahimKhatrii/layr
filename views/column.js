@@ -30,4 +30,4 @@ export class LayrColumn extends HTMLElement {
 }
 
 // ✅ This is essential
-customElements.define('Column', LayrColumn);
+customElements.define('column', LayrColumn);
